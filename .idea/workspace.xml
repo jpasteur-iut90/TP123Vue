@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="985d26f7-6b1a-43a2-bc05-9e68b757acca" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="985d26f7-6b1a-43a2-bc05-9e68b757acca" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +45,9 @@
   }
 }]]></component>
   <component name="RunManager">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:5173">
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="TP123Vue" />
       <method v="2">
@@ -122,7 +123,7 @@
       <workItem from="1759744388174" duration="238000" />
       <workItem from="1759749394527" duration="606000" />
       <workItem from="1759844394951" duration="6000" />
-      <workItem from="1759925192602" duration="859000" />
+      <workItem from="1759925192602" duration="1173000" />
     </task>
     <servers />
   </component>
